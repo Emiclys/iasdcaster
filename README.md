@@ -1,3 +1,5 @@
+# Projeto arquivado e abandonado, até o presente momento.
+
 # IASD Caster - Software de Projeção
 Aplicação baseada em WEB feito por adventistas para adventistas.
 
